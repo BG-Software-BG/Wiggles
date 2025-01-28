@@ -80,7 +80,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 ## Credits 🤗
 
-- Icons are from [tablericons.com](https://tablericons.com)
+- Icons are from [Tabler Icons](https://tabler.io/icons)
 - Heartly congratulations for Jetpack Compose Team who worked hard to make Compose great ♥️
 
 
